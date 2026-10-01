@@ -63,5 +63,3 @@ Late work: Each team gets 3 grace days per semester. After that, the penalty is 
 Peer evaluation: Done at each milestone. It can change individual grades by ±15%.
 Academic integrity: Reusing open-source code is fine if you attribute it and respect its license. Copying another team's work is not.
 Accessibility: Accommodations are available through the university's disability services office.
-
-Test 
