@@ -1,0 +1,27 @@
+[tool.pytest.ini_options]
+# Every module has a test_exercise.py, so import them by path, not by name.
+addopts = "--import-mode=importlib"
+testpaths = ["modules"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+# Deliberately bad code: module 02 is refactoring practice, module 09 is review practice.
+"modules/02_clean_code/exercise.py" = ["ALL"]
+"modules/09_git_and_code_review/review_me.py" = ["ALL"]
+
+[tool.ruff.format]
+# Lesson snippets in the READMEs are laid out for reading, so leave Markdown alone.
+exclude = [
+    "modules/02_clean_code/exercise.py",
+    "modules/09_git_and_code_review/review_me.py",
+    "*.md",
+]
+
+[tool.mypy]
+strict = true

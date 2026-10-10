@@ -63,3 +63,7 @@ Late work: Each team gets 3 grace days per semester. After that, the penalty is 
 Peer evaluation: Done at each milestone. It can change individual grades by ±15%.
 Academic integrity: Reusing open-source code is fine if you attribute it and respect its license. Copying another team's work is not.
 Accessibility: Accommodations are available through the university's disability services office.
+
+## Hands-on Python modules
+
+This repository also contains twelve hands-on modules on software engineering in Python, each with a lesson, an exercise with failing tests, and a reference solution. See [HANDS_ON.md](HANDS_ON.md) for setup and the module list.
