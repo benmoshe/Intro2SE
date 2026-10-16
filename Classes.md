@@ -10,4 +10,10 @@ https://docs.google.com/presentation/d/11VdItjFPO45mBSRfwewgmKpdNAStbMgV/edit?sl
 Class recordings:
 
 
+Class2:
+https://docs.google.com/presentation/d/1QCKrIaA6WOvlzheHTEbmhBDxToWUzfOF/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
+
+Class recordings:
+
+
 
