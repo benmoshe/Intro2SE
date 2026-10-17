@@ -15,5 +15,12 @@ https://docs.google.com/presentation/d/1QCKrIaA6WOvlzheHTEbmhBDxToWUzfOF/edit?us
 
 Class recordings:
 
+Class3:
+https://docs.google.com/presentation/d/1z9nrqTjESXqDnlSWds4QCdnZc2amtAZX/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
 
+Class recordings:
+
+Class4: https://docs.google.com/presentation/d/1KDclwkET9qcmPiSI5dGrK84u1epeLtrB/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
+
+Class recordings:
 
