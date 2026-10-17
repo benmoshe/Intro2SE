@@ -77,4 +77,4 @@ Accessibility: Accommodations are available through the university's disability 
 
 ## Hands-on Python modules
 
-This repository also contains twelve hands-on modules on software engineering in Python, each with a lesson, an exercise with failing tests, and a reference solution. See [HANDS_ON.md](HANDS_ON.md) for setup and the module list.
+This repository also contains twelve hands-on modules on software engineering in Python, each with a lesson, an exercise with failing tests, and a reference solution. See [HANDS_ON.md](modules_self_learning/HANDS_ON.md) for setup and the module list.
