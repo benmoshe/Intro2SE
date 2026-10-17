@@ -1,6 +1,17 @@
 # Intro2SE
 This repository contains the main teaching matirials for the Introduction to OOP OOD course in the School of Computer Science Ariel University. The course focuses on modern Software Engeneering and how to adopt the ever evolving LLM software generating tools to become a super programmer.
 
+Main Links:
+Github: (self ref): https://github.com/benmoshe/Intro2SE/
+
+Sylabus: https://docs.google.com/document/d/1DlFE0LDG93zOIS2EQX3rnf5M17wV-pF-fpx_cnXDvWE/edit?tab=t.0
+
+Classes: https://github.com/benmoshe/Intro2SE/blob/main/Classes.md
+
+Assigments: https://github.com/benmoshe/Intro2SE/blob/main/Exe.md
+
+Moodle: (In Hebrew): https://moodlearn.ariel.ac.il/course/view.php?id=130158
+
 Software Engineering: Building Modern Software Systems
 
 Level: Second year CS, Engeneering (undergraduate).
