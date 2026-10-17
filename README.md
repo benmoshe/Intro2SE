@@ -75,6 +75,6 @@ Peer evaluation: Done at each milestone. It can change individual grades by ±15
 Academic integrity: Reusing open-source code is fine if you attribute it and respect its license. Copying another team's work is not.
 Accessibility: Accommodations are available through the university's disability services office.
 
-## Hands-on Python modules
+## Hands-on Python modules (Self-learning)
 
-This repository also contains twelve hands-on modules on software engineering in Python, each with a lesson, an exercise with failing tests, and a reference solution. See [HANDS_ON.md](modules_self_learning/HANDS_ON.md) for setup and the module list.
+This repository also contains twelve hands-on modules on software engineering in Python (designed for self learning), each with a lesson, an exercise with failing tests, and a reference solution. See [HANDS_ON.md](modules_self_learning/HANDS_ON.md) for setup and the module list.
