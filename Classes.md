@@ -8,7 +8,7 @@ Class1:
 https://docs.google.com/presentation/d/11VdItjFPO45mBSRfwewgmKpdNAStbMgV/edit?slide=id.p1#slide=id.p1
 
 Class recordings:
-
+https://ariel-ac-il.zoom.us/rec/share/SFkvi_qlgiC2dQNXGi4yDwDMXrEojgJArMzD9xIpeJCgJLukY5jps4qA8OC-9Tgp.vU3Iw4mUYwb0uOVG
 
 Class2:
 https://docs.google.com/presentation/d/1QCKrIaA6WOvlzheHTEbmhBDxToWUzfOF/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
