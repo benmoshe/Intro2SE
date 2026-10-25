@@ -14,6 +14,7 @@ Class2:
 https://docs.google.com/presentation/d/1QCKrIaA6WOvlzheHTEbmhBDxToWUzfOF/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
 
 Class recordings:
+https://ariel-ac-il.zoom.us/rec/share/gjJpNhe70BIVtvUnJtOQVq0xj3tolsz39Qf4K236wWAoma_jByYLlVbbtCsp3RX1.AvNgwH4mXdEz-wX3?from=hub
 
 Class3:
 https://docs.google.com/presentation/d/1z9nrqTjESXqDnlSWds4QCdnZc2amtAZX/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
