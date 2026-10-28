@@ -16,6 +16,8 @@ https://docs.google.com/presentation/d/1QCKrIaA6WOvlzheHTEbmhBDxToWUzfOF/edit?us
 Class recordings:
 https://ariel-ac-il.zoom.us/rec/share/gjJpNhe70BIVtvUnJtOQVq0xj3tolsz39Qf4K236wWAoma_jByYLlVbbtCsp3RX1.AvNgwH4mXdEz-wX3?from=hub
 
+https://ariel-ac-il.zoom.us/rec/share/j8lXCLVgQDREavdGkja0NcLc6Zg-HUbLg9U9S7EsZG1G98zUQnRXfp0t5IXnVj9q.EaLoyK0gs5Ix3cHu
+
 Class3:
 https://docs.google.com/presentation/d/1z9nrqTjESXqDnlSWds4QCdnZc2amtAZX/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
 
