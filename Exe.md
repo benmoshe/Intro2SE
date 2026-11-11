@@ -8,7 +8,7 @@ https://docs.google.com/document/d/12YUdMmOQawcnKqev_DYIE77Ums-aa9A3/edit
 Ex3: Putting it all together - A smart Elevator
 
 Ex4 Realtime controlling - Physical gaming:
-https://github.com/naomital/my-car-control/tree/master
+https://docs.google.com/document/d/14_jicoe6Cy0URttLHZS8wWPrPN0YX39p/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
 
 #x5 Course Project:
 
