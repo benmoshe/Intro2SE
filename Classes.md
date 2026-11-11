@@ -29,6 +29,8 @@ https://ariel-ac-il.zoom.us/rec/share/_PkI_drojbeptqscdEcGZnOPoxyfgbtuxi9oJsmXj0
 Class4: https://docs.google.com/presentation/d/1KDclwkET9qcmPiSI5dGrK84u1epeLtrB/edit?usp=sharing&ouid=113711744349547563645&rtpof=true&sd=true
 
 Class recordings:
+
 https://ariel-ac-il.zoom.us/rec/share/5xp5eHZPBPLBAtUdZgX0yVMa_AvKeIya4NmIaE8RpvzBtNOj6RfcdxGcaYun2sku.pNH7OGUOCTgeEWqK?from=hub
+
 https://ariel-ac-il.zoom.us/rec/share/ANVwD1Ov41hLCxm_CPsrs-VfKSVLCY6pD7AAT_MZ_tKRKplShBoBNUiCxpjDTwyR.1TjrAFeIOnW0pXb9?from=hub
 
