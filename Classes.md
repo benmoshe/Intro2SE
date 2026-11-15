@@ -34,3 +34,8 @@ https://ariel-ac-il.zoom.us/rec/share/5xp5eHZPBPLBAtUdZgX0yVMa_AvKeIya4NmIaE8Rpv
 
 https://ariel-ac-il.zoom.us/rec/share/ANVwD1Ov41hLCxm_CPsrs-VfKSVLCY6pD7AAT_MZ_tKRKplShBoBNUiCxpjDTwyR.1TjrAFeIOnW0pXb9?from=hub
 
+Class 5 - talking about Ex3:
+
+https://ariel-ac-il.zoom.us/rec/share/B4dal1jjt8D0CcIuqAlaGkLmNXX4p7klsqp_kFPAn-wr_REdYoB8LOSqf4EAhSUa.IPaHyCzodONfjqZr?from=hub
+
+
