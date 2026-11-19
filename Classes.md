@@ -38,4 +38,10 @@ Class 5 - talking about Ex3:
 
 https://ariel-ac-il.zoom.us/rec/share/B4dal1jjt8D0CcIuqAlaGkLmNXX4p7klsqp_kFPAn-wr_REdYoB8LOSqf4EAhSUa.IPaHyCzodONfjqZr?from=hub
 
+https://ariel-ac-il.zoom.us/rec/share/2W7G9vBdh89Ykm2e1mmYhM4kNVVzg9-swct2iJ4N15fhpX-OvyBmZEAJNn8X6iJx.HyWPSzTC2XBLBXwE?from=hub
+
+
+Class 6a: SpecKit lecture (Dr. Rony Ronen):
+https://github.com/ronyronen/speckit-claude-presentation
+
 
